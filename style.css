@@ -107,8 +107,8 @@ footer {
 
 
 button {
-    background-color: #3b4414;
-    color: aliceblue;
+    background-color: var (--cor-principal);
+    color: var (var(--cor-clara));
     border: none;
     padding: 10px 15px;
     border-radius: 8px;

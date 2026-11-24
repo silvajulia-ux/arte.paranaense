@@ -4,10 +4,10 @@
   --cor-principal: #4d9150;
   --cor-secundaria: #9a9b4d;
   --cor-hover: #597447;
-  --cor-superficie: white;
+  --cor-superficie: rgb(139, 199, 127);
   --cor-card: #74834d;
   --cor-legenda: #555555;
-  --cor-clara: white;
+  --cor-clara: rgb(185, 223, 200);
   --cor-rodape: #222222;
 }
 .tema-escuro{
